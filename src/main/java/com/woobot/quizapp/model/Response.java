@@ -1,6 +1,5 @@
 package com.woobot.quizapp.model;
 
-import jakarta.persistence.Entity;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 

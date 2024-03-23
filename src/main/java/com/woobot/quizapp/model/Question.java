@@ -1,6 +1,5 @@
 package com.woobot.quizapp.model;
 
-import common.Difficulty;
 import jakarta.persistence.*;
 import lombok.Data;
 
